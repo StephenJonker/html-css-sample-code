@@ -1,4 +1,4 @@
-Hello World HTML sampel code
+# Hello World HTML sample code
 
 This is a basic "Hello World!" done in HTML
 Ya, just gotta have one of these
